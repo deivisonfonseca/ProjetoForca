@@ -9,8 +9,8 @@ void copyright(){
     system("clear");
     printf("=============================================================\n\n");
     printf("JOGO DA FORCA\n");
-    printf("Desenvolvido por: \n\tDeivison - RA 18458\n");
-    printf("\tClaudio - RA 18456\n");
+    printf("Desenvolvido por: \n\tDeivison Nascimento - RA 18458\n");
+    printf("\tClaudio Moura - RA 18456\n");
     printf("=============================================================\n\n");
 }
 
