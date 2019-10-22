@@ -10,7 +10,6 @@ void copyright(){
     printf("=============================================================\n\n");
     printf("JOGO DA FORCA\n");
 <<<<<<< HEAD
-    printf("Desenvolvido por: \n\tDeivison Nascimento- RA 18458\n");
 =======
     printf("Desenvolvido por: \n\tDeivison Nascimento - RA 18458\n");
 >>>>>>> 81ff108d85d60b59d47ffef0b7057241b4e4fb80
