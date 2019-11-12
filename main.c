@@ -62,9 +62,9 @@ void forca(int argc,char  *argv[]){
             }
             system("cls");
             if(perdeu == 1){
-                printf("Infelizmente voce perdeu!!! Numero de tentativas: %d\n", tentativas/2);
+                printf("Infelizmente voce perdeu!!! \nNumero de tentativas: %d\n", tentativas/2);
             }else{
-                printf("Parabens voce acertou a palavra!!! Numero de tentativas: %d \n", tentativas/2);
+                printf("Parabens voce acertou a palavra!!! \nNumero de tentativas: %d \n", tentativas/2);
             }
 
             system("pause");
